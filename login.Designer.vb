@@ -79,7 +79,7 @@ Partial Class login
         Me.txtUsername.Location = New System.Drawing.Point(86, 119)
         Me.txtUsername.Name = "txtUsername"
         Me.txtUsername.Size = New System.Drawing.Size(270, 20)
-        Me.txtUsername.TabIndex = 1
+        Me.txtUsername.TabIndex = 0
         '
         'Student_Management_SystemDataSet
         '
@@ -109,7 +109,7 @@ Partial Class login
         Me.btnReset.Location = New System.Drawing.Point(180, 227)
         Me.btnReset.Name = "btnReset"
         Me.btnReset.Size = New System.Drawing.Size(75, 23)
-        Me.btnReset.TabIndex = 2
+        Me.btnReset.TabIndex = 3
         Me.btnReset.Text = "Reset"
         Me.btnReset.UseVisualStyleBackColor = True
         '
@@ -118,7 +118,7 @@ Partial Class login
         Me.btnExit.Location = New System.Drawing.Point(281, 227)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(75, 23)
-        Me.btnExit.TabIndex = 2
+        Me.btnExit.TabIndex = 4
         Me.btnExit.Text = "Exit"
         Me.btnExit.UseVisualStyleBackColor = True
         '
